@@ -3,8 +3,13 @@
 "customizations": {
   "vscode": {
     "extensions": [
-      "streetsidesoftware.code-spell-checker",
-      "vscjava.vscode-java-pack"
+     "ms-vscode.cpptools",
+    "twxs.cmake",
+    "llvm-vs-code-extensions.vscode-clangd",
+    "ms-vscode.cmake-tools",
+    "ms-vscode.c-cpp-flylint",
+    "ms-vscode.cmake-tools",
+    "ms-vscode.cpptools-extension-pack"
     ]
   }
 }

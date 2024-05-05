@@ -9,7 +9,8 @@
     "ms-vscode.cmake-tools",
     "ms-vscode.c-cpp-flylint",
     "ms-vscode.cmake-tools",
-    "ms-vscode.cpptools-extension-pack"
+    "ms-vscode.cpptools-extension-pack",
+    "formulahendry.code-runner"
     ]
   }
 }

@@ -1,22 +1,12 @@
 {
-  "name": devnolife",
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "extensions": [
-    "ms-vscode.cpptools",
-    "twxs.cmake",
-    "llvm-vs-code-extensions.vscode-clangd",
-    "ms-vscode.cmake-tools",
-    "ms-vscode.c-cpp-flylint",
-    "ms-vscode.cmake-tools",
-    "ms-vscode.cpptools-extension-pack"
-  ],
-  "settings": {
-    "files.exclude": {
-      "**/.git": true,
-      "**/.svn": true,
-      "**/.hg": true,
-      "**/CVS": true,
-      "**/.DS_Store": true
-    }
-  },
+"customizations": {
+  "vscode": {
+    "extensions": [
+      "streetsidesoftware.code-spell-checker",
+      "vscjava.vscode-java-pack"
+    ]
+  }
+}
+
 }
